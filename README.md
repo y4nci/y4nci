@@ -3,6 +3,7 @@ I am a Junior CS student at Middle East Technical University.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/baran-yanci)
+[![Spotify](https://img.shields.io/badge/Spotify-%230077B5.svg?logo=spotify&color=darkgreen&logoColor=white)](https://open.spotify.com/user/11155761412?si=fc369bd119ed4266)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=y4nci&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
