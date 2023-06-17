@@ -4,4 +4,4 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=y4nci&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=y4nci&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=y4nci&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://wakatime.com/share/@y4nci/7868bb93-55c0-4aa7-a436-7a369d454d0b.svg)
